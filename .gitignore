@@ -1,0 +1,28 @@
+# Unreal Engine generated
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+.idea/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+
+# Plugin binaries (compiled locally)
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Config overrides (keep Default configs, ignore user overrides)
+Config/UserEditorPerProjectIni.ini
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# Large content you don't want in git
+# Content/  ← uncomment if using Git LFS for assets

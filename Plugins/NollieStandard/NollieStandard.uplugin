@@ -1,0 +1,19 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "Nollie Standard",
+    "Description": "AI governance scoring HUD — RED/GREEN verdicts from the Nollie Standard API.",
+    "Category": "Other",
+    "CreatedBy": "Nollie Standard",
+    "CreatedByURL": "https://nolliestandard.com",
+    "CanContainContent": true,
+    "Installed": false,
+    "Modules": [
+        {
+            "Name": "NollieStandard",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
